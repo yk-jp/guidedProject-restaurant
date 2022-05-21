@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F253F7D128395289005052CF /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F253F7D028395289005052CF /* MenuController.swift */; };
 		F2DAA24B2838BD4700AD45A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DAA24A2838BD4700AD45A4 /* AppDelegate.swift */; };
 		F2DAA24D2838BD4700AD45A4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DAA24C2838BD4700AD45A4 /* SceneDelegate.swift */; };
 		F2DAA24F2838BD4700AD45A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DAA24E2838BD4700AD45A4 /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F253F7D028395289005052CF /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		F2DAA2472838BD4700AD45A4 /* OrderApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrderApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2DAA24A2838BD4700AD45A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2DAA24C2838BD4700AD45A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				F2DAA2662838C4E400AD45A4 /* MenuItem.swift */,
 				F2DAA2682838C64A00AD45A4 /* ResponseModels.swift */,
 				F2DAA26A2838C72600AD45A4 /* Order.swift */,
+				F253F7D028395289005052CF /* MenuController.swift */,
 				F2DAA2532838BD4A00AD45A4 /* Assets.xcassets */,
 				F2DAA2552838BD4A00AD45A4 /* LaunchScreen.storyboard */,
 				F2DAA2582838BD4A00AD45A4 /* Info.plist */,
@@ -164,6 +167,7 @@
 				F2DAA26B2838C72600AD45A4 /* Order.swift in Sources */,
 				F2DAA2612838C18C00AD45A4 /* MenuTableViewController.swift in Sources */,
 				F2DAA2652838C48300AD45A4 /* MenuItemDetailViewController.swift in Sources */,
+				F253F7D128395289005052CF /* MenuController.swift in Sources */,
 				F2DAA24D2838BD4700AD45A4 /* SceneDelegate.swift in Sources */,
 				F2DAA2692838C64A00AD45A4 /* ResponseModels.swift in Sources */,
 				F2DAA2672838C4E400AD45A4 /* MenuItem.swift in Sources */,
