@@ -34,7 +34,7 @@
                                     </subviews>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="Zlh-UM-lrl" kind="show" id="wTu-9U-ALt"/>
+                                    <segue destination="Zlh-UM-lrl" kind="show" destinationCreationSelector="showMenu:sender:" id="wTu-9U-ALt"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
