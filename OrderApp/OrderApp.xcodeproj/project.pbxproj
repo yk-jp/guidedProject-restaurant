@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F253F7D128395289005052CF /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F253F7D028395289005052CF /* MenuController.swift */; };
 		F27D2969283ABF9300983848 /* OrderConfirmationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27D2968283ABF9300983848 /* OrderConfirmationViewController.swift */; };
+		F27D296D283B00A900983848 /* MenuItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27D296C283B00A900983848 /* MenuItemCell.swift */; };
 		F2DAA24B2838BD4700AD45A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DAA24A2838BD4700AD45A4 /* AppDelegate.swift */; };
 		F2DAA24D2838BD4700AD45A4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DAA24C2838BD4700AD45A4 /* SceneDelegate.swift */; };
 		F2DAA24F2838BD4700AD45A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DAA24E2838BD4700AD45A4 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		F253F7D028395289005052CF /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		F27D2968283ABF9300983848 /* OrderConfirmationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderConfirmationViewController.swift; sourceTree = "<group>"; };
+		F27D296C283B00A900983848 /* MenuItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemCell.swift; sourceTree = "<group>"; };
 		F2DAA2472838BD4700AD45A4 /* OrderApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrderApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2DAA24A2838BD4700AD45A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2DAA24C2838BD4700AD45A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				F2DAA2642838C48300AD45A4 /* MenuItemDetailViewController.swift */,
 				F2DAA25E2838C16D00AD45A4 /* CategoryTableViewController.swift */,
 				F2DAA2602838C18C00AD45A4 /* MenuTableViewController.swift */,
+				F27D296C283B00A900983848 /* MenuItemCell.swift */,
 				F2DAA2622838C1A000AD45A4 /* OrderTableViewController.swift */,
 				F2DAA2662838C4E400AD45A4 /* MenuItem.swift */,
 				F2DAA2682838C64A00AD45A4 /* ResponseModels.swift */,
@@ -172,6 +175,7 @@
 				F2DAA2652838C48300AD45A4 /* MenuItemDetailViewController.swift in Sources */,
 				F253F7D128395289005052CF /* MenuController.swift in Sources */,
 				F2DAA24D2838BD4700AD45A4 /* SceneDelegate.swift in Sources */,
+				F27D296D283B00A900983848 /* MenuItemCell.swift in Sources */,
 				F2DAA2692838C64A00AD45A4 /* ResponseModels.swift in Sources */,
 				F27D2969283ABF9300983848 /* OrderConfirmationViewController.swift in Sources */,
 				F2DAA2672838C4E400AD45A4 /* MenuItem.swift in Sources */,
